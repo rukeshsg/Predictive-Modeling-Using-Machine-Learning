@@ -172,8 +172,7 @@ This project provides a complete understanding of **supervised machine learning 
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/rukeshsg
-- LinkedIn: https://www.linkedin.com/in/rukesh-s-g-6531bb3b7/
+<p align="center"> <a href="https://github.com/rukeshsg" target="_blank"> <img src="https://img.shields.io/badge/GitHub-rukeshsg-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/rukesh-s-g-6531bb3b7/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Rukesh%20SG-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 ---
 
